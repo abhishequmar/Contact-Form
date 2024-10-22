@@ -246,16 +246,16 @@ input.error, textarea.error {
 
 
 .contact-form {
-  position: relative; /* Make sure the position is relative to contain the absolute positioned image */
+  position: relative; 
 }
 
 .top-right-image {
-  position: absolute; /* Position the image independently of other elements */
+  position: absolute; 
   top: 0;
   right: 0;
-  width: 100px; /* Set the desired size of the image */
+  width: 100px; 
   height: auto;
-  z-index: 1; /* Ensures the image is above other elements */
+  z-index: 1; 
 }
 
 .contact-form {
